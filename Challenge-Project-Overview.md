@@ -62,10 +62,14 @@ One clean, reproducible table that combines the different AI-risk indices. Clear
 Use these milestones to guide your work. Your team will create a GitHub Projects board to track tasks within each milestone.
 | Month | Milestone | Key Activities |
 |-------|-----------|----------------|
-| **September** | Data Exploration & Preprocessing | Standardizing disparate index formats, performing initial data profiling, and executing the 'Merge-First' ETL pipeline to join indices with O*NET. |
-| **October** | Feature Engineering & Baseline Modeling | Engineering occupational features, calculating rank-correlations, and deploying initial clustering and regression baselines. |
-| **November** | Model Optimization & Evaluation | Training the Keras model to predict disagreement drivers, performing hyperparameter tuning, and validating findings against BLS projection data. |
-| **December** | Insights, Deliverables & Presentation | Finalizing the visual dashboard of risk profiles, drafting the analytical report on index trust, and packaging the code repository for handover. |
+| September | Data Ingestion, Harmonization & Baseline Correlation Analysis | • Ingest and link multi-source public datasets (O*NET, IPUMS CPS, BLS OES) using SOC occupational crosswalks.<br>• Standardize and normalize published AI job-risk/exposure indices (e.g., Felten AIOE, OpenAI/Eloundou, Webb, Frey & Osborne).<br>• Perform Exploratory Data Analysis (EDA) and compute pairwise correlation metrics (Pearson/Spearman) across index scores. |
+| October | Divergence Modeling & Demographic Disparity Analysis | • Analyze index agreement and variance across demographic groups (gender, race, age, education level), wage tiers, and geographic regions.<br>• Train clustering and decision tree/regression models to identify specific task profiles and occupational features driving high index disagreement.<br>• Measure variance metrics and flag outlier occupations where AI exposure estimates conflict most. |
+| November / December | Interpretability, Interactive Dashboard & Capstone Deliverables | • Perform feature importance analysis (e.g., SHAP) to isolate specific O*NET work activities and skills causing index divergence.<br>• Build an interactive Streamlit dashboard allowing users to search occupations, compare multi-index risk profiles, and visualize demographic distributions.<br>• Finalize clean, reproducible GitHub repository, final analytical report, and executive presentation deck. |
+
+### Stretch Goals
+* **Composite Risk Meta-Index:** Develop an ensemble/weighted composite AI risk score that harmonizes divergent index methodologies based on underlying task-level O*NET attributes.
+* **Labor Market Trend Projection:** Integrate BLS 10-year occupational projection data to evaluate whether high index divergence correlates with projected employment shifts and job separations.
+* **Dynamic LLM Task Exposure Evaluator:** Build an interactive sandbox tool that leverages an LLM to evaluate AI exposure for emerging or custom job titles based on user-entered task descriptions.
 
 > **Note for the team:** Please create a GitHub Projects board in this repository to break these milestones into weekly tasks. Go to the **Projects** tab → **New project** → Choose **Board** → Add columns for each month.
 
