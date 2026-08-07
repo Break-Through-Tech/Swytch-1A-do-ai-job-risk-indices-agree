@@ -53,81 +53,104 @@ Swytch is an innovative organization dedicated to providing data-driven career g
 
 ## 🎯 The Challenge
 ### Project Summary
-This project aims to synthesize disparate AI-risk indices—including the AIOE, GPT-exposure, and Frey-Osborne estimates—to evaluate their consistency in predicting labor market disruption. By joining these metrics with O*NET occupational data and applying machine learning techniques, the team will identify which job characteristics drive consensus or disagreement among models. The final output will enable Swytch to provide more reliable, evidence-based career advice to users in an era of rapid technological change.
+In this project, you will use several public indexes that score how exposed each U.S. occupation is to AI (the Felten-Raj-Seamans AIOE, the Eloundou GPT-exposure scores, and the Frey-Osborne automation estimates), joined to the O*NET occupational database, and machine learning methods (rank-correlation analysis, clustering, regression, feature-importance methods, and a Keras model), to measure how much these AI-risk rankings actually agree, and to work out what kinds of jobs they disagree about most. This helps SWYTCH know which AI-risk signals are solid enough to use in career guidance and which are too shaky to trust.
 
 ### Success Criteria
 One clean, reproducible table that combines the different AI-risk indices. Clear numbers on where they agree and where they diverge. A grouping of occupations by risk profile. A model showing which job features explain the disagreements. And a plain writeup of what it all means for trusting any single AI-risk number.
 
+### Stretch Goals
+- Free option: add more indices (Webb; the Brynjolfsson-Mitchell-Rock machine-learning-suitability scores), or build an interactive dashboard that lets users explore the merged data.
+- Optional API-based add-on (TBD, only if API access is later funded): have an LLM produce its own occupation risk ratings and compare them to the established indices.
+  
 ### Project Milestones
 Use these milestones to guide your work. Your team will create a GitHub Projects board to track tasks within each milestone.
-| Month | Milestone | Key Activities |
-|-------|-----------|----------------|
-| September | Data Ingestion, Harmonization & Baseline Correlation Analysis | • Ingest and link multi-source public datasets (O*NET, IPUMS CPS, BLS OES) using SOC occupational crosswalks.<br>• Standardize and normalize published AI job-risk/exposure indices (e.g., Felten AIOE, OpenAI/Eloundou, Webb, Frey & Osborne).<br>• Perform Exploratory Data Analysis (EDA) and compute pairwise correlation metrics (Pearson/Spearman) across index scores. |
-| October | Divergence Modeling & Demographic Disparity Analysis | • Analyze index agreement and variance across demographic groups (gender, race, age, education level), wage tiers, and geographic regions.<br>• Train clustering and decision tree/regression models to identify specific task profiles and occupational features driving high index disagreement.<br>• Measure variance metrics and flag outlier occupations where AI exposure estimates conflict most. |
-| November / December | Interpretability, Interactive Dashboard & Capstone Deliverables | • Perform feature importance analysis (e.g., SHAP) to isolate specific O*NET work activities and skills causing index divergence.<br>• Build an interactive Streamlit dashboard allowing users to search occupations, compare multi-index risk profiles, and visualize demographic distributions.<br>• Finalize clean, reproducible GitHub repository, final analytical report, and executive presentation deck. |
 
-### Stretch Goals
-* **Composite Risk Meta-Index:** Develop an ensemble/weighted composite AI risk score that harmonizes divergent index methodologies based on underlying task-level O*NET attributes.
-* **Labor Market Trend Projection:** Integrate BLS 10-year occupational projection data to evaluate whether high index divergence correlates with projected employment shifts and job separations.
-* **Dynamic LLM Task Exposure Evaluator:** Build an interactive sandbox tool that leverages an LLM to evaluate AI exposure for emerging or custom job titles based on user-entered task descriptions.
+| Month | Milestone | Key Activities |
+|---|---|---|
+| September | Data Standardization & Exploration | Gather and standardize each index. Line them up to the same occupation codes using public crosswalks, merge them into one table, and explore each one. |
+| October | Index Agreement & Occupation Clustering | Measure how much the indices agree (rank correlations and concordance). Group occupations by their risk profiles. |
+| November | Modeling Disagreements & Validation | Model what drives the disagreements, using occupational features (skills, tasks, job zone, work context). See which features matter most. Add a Keras model. Optionally, check the indices against actual BLS employment projections. |
 
 > **Note for the team:** Please create a GitHub Projects board in this repository to break these milestones into weekly tasks. Go to the **Projects** tab → **New project** → Choose **Board** → Add columns for each month.
 
 ---
 
 ## 📊 Dataset
-**Name and Source:** O*NET, CPS, BLS OES, and BLS Employment Projections (https://cps.ipums.org, https://www.onetcenter.org/database.html, https://www.bls.gov/oes, https://www.bls.gov/emp/tables/occupational-separations-and-openings.htm)  
+**Name and Source:** O*NET, CPS, BLS OES, and BLS Employment Projections
 **Format:** CSV/Tabular  
 **Size:** under 1gb  
-**Location:** Standard public repository links provided.
+**Location:** https://cps.ipums.org, https://www.onetcenter.org/database.html, https://www.bls.gov/oes, https://www.bls.gov/emp/tables/occupational-separations-and-openings.htm)
 
 ### Key Details
-- The project requires intensive schema matching across cross-walk tables to align O*NET SOC codes with BLS and researcher-specific occupational classifications. Teams must prioritize handling missing values in specific indices to ensure the final joined dataset maintains statistical integrity.
-
+- [Brief description of what's in the data]
+- [Any known limitations or preprocessing needed]
+- [Link to data dictionary or documentation, if available]
+  
 ---
 
 ## 🛠️ Suggested Approach
-**ML Problem Type:** Regression & Clustering  
+
+**ML Problem Type:** Regression, Clustering, Deep Learning / Neural Networks  
+
 **Recommended Libraries:**
-- rank-correlation analysis
-- clustering
-- regression
-- feature-importance methods
-- and a Keras model
-**Evaluation Metrics:** Concordance measures, Mean Squared Error (MSE) for regression tasks, and silhouette scores for occupational clustering.
+- [e.g., pandas, scikit-learn, TensorFlow, Hugging Face]
+
+**Evaluation Metrics:**
+- [e.g., Accuracy, Precision/Recall, RMSE, BLEU score]
 
 ---
 
 ## 📚 Resources to Get Started
+
 The following resources will help your team understand the problem space and potential technical approaches for this project:
+
 **Background Reading:**
-- Review the methodology sections of the Felten-Raj-Seamans AIOE paper and the Eloundou et al. GPT-exposure study.
+- [e.g., Link to an article or blog post about the problem domain]
+- [e.g., Link to an industry report or case study]
+
 **Technical Tutorials:**
-- Consult the scikit-learn documentation for feature importance and clustering workflows.
+- [e.g., Link to a free tutorial on the ML technique(s) involved]
+- [e.g., Link to documentation for a key library or tool]
+
 **Code Examples:**
-- Refer to the Pandas documentation for handling multi-index merges and relational data joins.
+- [e.g., Link to a relevant GitHub repo]
+- [e.g., Link to a sample implementation or starter code]
+
+**Other:**
+- [Links to any additional resources — e.g., papers, videos, podcasts, etc.]
+
+*Feel free to explore beyond these, and share anything interesting you find with me!*
 
 ---
 
 ## 🤝 How We'll Work Together
-**Check-ins:** During our biweekly 60-min AI Studio Lab Section meeting block (2nd and 4th week of every month)  
-**Communication:** Email and Slack (details provided in onboarding)  
-**Response time:** 24–48 hours for non-urgent inquiries.  
-**Recommended Tools:**
-- **Coding:** Google Colab Free Tier  
-- **Collaboration:** GitHub, Notion  
-- **Virtual Meetings:** Zoom, Google Meet  
+
+**Official check-ins:** During our biweekly 45-minute AI Studio Lab Section meeting block (2nd and 4th week of every month)
+
+ **Other ways to reach out to me with questions:** 
+* [e.g., Your team's channel within Break Through Tech’s Discord space]
+* [e.g., Email; please copy your teammates and AI Studio Coach]
+* [e.g., Request a team check-in on Zoom]
+* [Note: I will aim to respond within 48 hours. Please reach out to your AI Studio Coach with urgent questions.]
+
+> 💡 **Challenge Advisor: Please update the above based on your availability and preference. If you are not able to answer questions or meet with fellows outside of the biweekly Lab Section check-ins, simply write in "N/A (only available during the official check-in times)"**
+
+**Recommended free coding / collaboration tools**
+* […]
+* […]
 
 ---
 
 ## 🚀 Getting Started
-1. **Review this overview document** and note any questions for our first meeting.
-2. **Begin reviewing the dataset** using the link provided in the Dataset section.
-3. **Read the GitHub Projects documentation** [here](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects).
 
-I'm excited to work with you!
+1. **Review this overview document** and note any questions for our first meeting
+2. **Begin reviewing the dataset** using the link above
+3. **Read the GitHub Projects documentation** [here](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
+
+I’m excited to work with you!
 
 ---
 
 ## ❓ Questions?
-Please bring any questions to our first meeting during the week of August 24th (Break Through Tech's Bridge to Studio - Session B).
+
+Please bring any questions to our first meeting during the week of August 24th (Break Through Tech’s Bridge to Studio - Session C). 
