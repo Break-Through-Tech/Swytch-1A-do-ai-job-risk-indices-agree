@@ -8,7 +8,7 @@
 
 ## 🏢 About swytch
 
-swytch is an early-stage career-development company working on data-driven tools that help people understand their skills and navigate career changes. Labor-market data is full of AI-risk scores that claim to say which jobs are exposed to AI. Before swytch relies on any such signal in career guidance, we want to know which ones deserve trust. That is what this project investigates.
+swytch is an early-stage career-development company working on data-driven tools that help people understand their skills and navigate career changes. Labor-market data is full of AI-risk scores that claim to say which jobs are exposed to AI. Before swytch relies on any such signal in career guidance, we want to know which ones to trust most.
 
 ---
 
