@@ -1,7 +1,7 @@
 # Do AI Job-Risk Indices Agree?
 
-**Company / Org:** swytch
-**Challenge Advisor:** Julie Young, julie@swytch.careers
+**Company / Org:** swytch   
+**Challenge Advisor:** Julie Young, julie@swytch.careers   
 **Program:** Break Through Tech AI Studio - Fall 2026
 
 ---
