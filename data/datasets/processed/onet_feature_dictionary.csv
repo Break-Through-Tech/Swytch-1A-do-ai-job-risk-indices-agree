@@ -1,0 +1,184 @@
+dataset,source_workbook,element_id,element_name,column_name,scale_id,rollup_rule
+onet_abilities,onet_abilities.xlsx,1.A.2.a.1,Arm-Hand Steadiness,ability_arm_hand_steadiness__1_a_2_a_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.4.b.2,Auditory Attention,ability_auditory_attention__1_a_4_b_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.1.b.7,Category Flexibility,ability_category_flexibility__1_a_1_b_7,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.2.b.1,Control Precision,ability_control_precision__1_a_2_b_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.1.b.4,Deductive Reasoning,ability_deductive_reasoning__1_a_1_b_4,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.4.a.6,Depth Perception,ability_depth_perception__1_a_4_a_6,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.3.c.2,Dynamic Flexibility,ability_dynamic_flexibility__1_a_3_c_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.3.a.3,Dynamic Strength,ability_dynamic_strength__1_a_3_a_3,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.3.a.2,Explosive Strength,ability_explosive_strength__1_a_3_a_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.3.c.1,Extent Flexibility,ability_extent_flexibility__1_a_3_c_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.4.a.2,Far Vision,ability_far_vision__1_a_4_a_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.2.a.3,Finger Dexterity,ability_finger_dexterity__1_a_2_a_3,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.1.e.2,Flexibility of Closure,ability_flexibility_of_closure__1_a_1_e_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.1.b.1,Fluency of Ideas,ability_fluency_of_ideas__1_a_1_b_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.4.a.7,Glare Sensitivity,ability_glare_sensitivity__1_a_4_a_7,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.3.c.3,Gross Body Coordination,ability_gross_body_coordination__1_a_3_c_3,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.3.c.4,Gross Body Equilibrium,ability_gross_body_equilibrium__1_a_3_c_4,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.4.b.1,Hearing Sensitivity,ability_hearing_sensitivity__1_a_4_b_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.1.b.5,Inductive Reasoning,ability_inductive_reasoning__1_a_1_b_5,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.1.b.6,Information Ordering,ability_information_ordering__1_a_1_b_6,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.2.a.2,Manual Dexterity,ability_manual_dexterity__1_a_2_a_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.1.c.1,Mathematical Reasoning,ability_mathematical_reasoning__1_a_1_c_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.1.d.1,Memorization,ability_memorization__1_a_1_d_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.2.b.2,Multilimb Coordination,ability_multilimb_coordination__1_a_2_b_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.4.a.1,Near Vision,ability_near_vision__1_a_4_a_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.4.a.4,Night Vision,ability_night_vision__1_a_4_a_4,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.1.c.2,Number Facility,ability_number_facility__1_a_1_c_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.1.a.1,Oral Comprehension,ability_oral_comprehension__1_a_1_a_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.1.a.3,Oral Expression,ability_oral_expression__1_a_1_a_3,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.1.b.2,Originality,ability_originality__1_a_1_b_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.1.e.3,Perceptual Speed,ability_perceptual_speed__1_a_1_e_3,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.4.a.5,Peripheral Vision,ability_peripheral_vision__1_a_4_a_5,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.1.b.3,Problem Sensitivity,ability_problem_sensitivity__1_a_1_b_3,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.2.b.4,Rate Control,ability_rate_control__1_a_2_b_4,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.2.c.1,Reaction Time,ability_reaction_time__1_a_2_c_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.2.b.3,Response Orientation,ability_response_orientation__1_a_2_b_3,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.1.g.1,Selective Attention,ability_selective_attention__1_a_1_g_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.4.b.3,Sound Localization,ability_sound_localization__1_a_4_b_3,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.1.f.1,Spatial Orientation,ability_spatial_orientation__1_a_1_f_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.4.b.5,Speech Clarity,ability_speech_clarity__1_a_4_b_5,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.4.b.4,Speech Recognition,ability_speech_recognition__1_a_4_b_4,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.1.e.1,Speed of Closure,ability_speed_of_closure__1_a_1_e_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.2.c.3,Speed of Limb Movement,ability_speed_of_limb_movement__1_a_2_c_3,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.3.b.1,Stamina,ability_stamina__1_a_3_b_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.3.a.1,Static Strength,ability_static_strength__1_a_3_a_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.1.g.2,Time Sharing,ability_time_sharing__1_a_1_g_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.3.a.4,Trunk Strength,ability_trunk_strength__1_a_3_a_4,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.4.a.3,Visual Color Discrimination,ability_visual_color_discrimination__1_a_4_a_3,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.1.f.2,Visualization,ability_visualization__1_a_1_f_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.2.c.2,Wrist-Finger Speed,ability_wrist_finger_speed__1_a_2_c_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.1.a.2,Written Comprehension,ability_written_comprehension__1_a_1_a_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_abilities,onet_abilities.xlsx,1.A.1.a.4,Written Expression,ability_written_expression__1_a_1_a_4,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_essential_skills.xlsx,2.A.2.b,Active Learning,skill_active_learning__2_a_2_b,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_essential_skills.xlsx,2.A.1.b,Active Listening,skill_active_listening__2_a_1_b,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.2.i,Complex Problem Solving,skill_complex_problem_solving__2_b_2_i,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.1.b,Coordination,skill_coordination__2_b_1_b,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_essential_skills.xlsx,2.A.2.a,Critical Thinking,skill_critical_thinking__2_a_2_a,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.3.j,Equipment Maintenance,skill_equipment_maintenance__2_b_3_j,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.3.c,Equipment Selection,skill_equipment_selection__2_b_3_c,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.3.d,Installation,skill_installation__2_b_3_d,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.1.e,Instructing,skill_instructing__2_b_1_e,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.4.e,Judgment and Decision Making,skill_judgment_and_decision_making__2_b_4_e,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_essential_skills.xlsx,2.A.2.c,Learning Strategies,skill_learning_strategies__2_a_2_c,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.5.b,Management of Financial Resources,skill_management_of_financial_resources__2_b_5_b,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.5.c,Management of Material Resources,skill_management_of_material_resources__2_b_5_c,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.5.d,Management of Personnel Resources,skill_management_of_personnel_resources__2_b_5_d,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_essential_skills.xlsx,2.A.1.e,Mathematics,skill_mathematics__2_a_1_e,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_essential_skills.xlsx,2.A.2.d,Monitoring,skill_monitoring__2_a_2_d,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.1.d,Negotiation,skill_negotiation__2_b_1_d,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.3.h,Operation and Control,skill_operation_and_control__2_b_3_h,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.3.a,Operations Analysis,skill_operations_analysis__2_b_3_a,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.3.g,Operations Monitoring,skill_operations_monitoring__2_b_3_g,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.1.c,Persuasion,skill_persuasion__2_b_1_c,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.3.e,Programming,skill_programming__2_b_3_e,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.3.m,Quality Control Analysis,skill_quality_control_analysis__2_b_3_m,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_essential_skills.xlsx,2.A.1.a,Reading Comprehension,skill_reading_comprehension__2_a_1_a,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.3.l,Repairing,skill_repairing__2_b_3_l,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_essential_skills.xlsx,2.A.1.f,Science,skill_science__2_a_1_f,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.1.f,Service Orientation,skill_service_orientation__2_b_1_f,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.1.a,Social Perceptiveness,skill_social_perceptiveness__2_b_1_a,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_essential_skills.xlsx,2.A.1.d,Speaking,skill_speaking__2_a_1_d,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.4.g,Systems Analysis,skill_systems_analysis__2_b_4_g,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.4.h,Systems Evaluation,skill_systems_evaluation__2_b_4_h,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.3.b,Technology Design,skill_technology_design__2_b_3_b,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.5.a,Time Management,skill_time_management__2_b_5_a,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_transferable_skills.xlsx,2.B.3.k,Troubleshooting,skill_troubleshooting__2_b_3_k,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_skills,onet_essential_skills.xlsx,2.A.1.c,Writing,skill_writing__2_a_1_c,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.2.a.4,Analyzing Data or Information,work_activity_analyzing_data_or_information__4_a_2_a_4,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.4.a.5,Assisting and Caring for Others,work_activity_assisting_and_caring_for_others__4_a_4_a_5,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.4.b.5,Coaching and Developing Others,work_activity_coaching_and_developing_others__4_a_4_b_5,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.4.a.3,Communicating with People Outside the Organization,work_activity_communicating_with_people_outside_the_organization__4_a_4_a_3,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.4.a.2,"Communicating with Supervisors, Peers, or Subordinates",work_activity_communicating_with_supervisors_peers_or_subordinates__4_a_4_a_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.3.a.3,Controlling Machines and Processes,work_activity_controlling_machines_and_processes__4_a_3_a_3,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.4.b.1,Coordinating the Work and Activities of Others,work_activity_coordinating_the_work_and_activities_of_others__4_a_4_b_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.4.b.2,Developing and Building Teams,work_activity_developing_and_building_teams__4_a_4_b_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.2.b.4,Developing Objectives and Strategies,work_activity_developing_objectives_and_strategies__4_a_2_b_4,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.3.b.6,Documenting/Recording Information,work_activity_documenting_recording_information__4_a_3_b_6,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.3.b.2,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",work_activity_drafting_laying_out_and_specifying_technical_devices_parts_and_equipment__4_a_3_b_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.4.a.4,Establishing and Maintaining Interpersonal Relationships,work_activity_establishing_and_maintaining_interpersonal_relationships__4_a_4_a_4,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.1.b.3,"Estimating the Quantifiable Characteristics of Products, Events, or Information",work_activity_estimating_the_quantifiable_characteristics_of_products_events_or_information__4_a_1_b_3,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.2.a.3,Evaluating Information to Determine Compliance with Standards,work_activity_evaluating_information_to_determine_compliance_with_standards__4_a_2_a_3,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.1.a.1,Getting Information,work_activity_getting_information__4_a_1_a_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.4.b.4,"Guiding, Directing, and Motivating Subordinates",work_activity_guiding_directing_and_motivating_subordinates__4_a_4_b_4,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.3.a.2,Handling and Moving Objects,work_activity_handling_and_moving_objects__4_a_3_a_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.1.b.1,"Identifying Objects, Actions, and Events",work_activity_identifying_objects_actions_and_events__4_a_1_b_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.1.b.2,"Inspecting Equipment, Structures, or Materials",work_activity_inspecting_equipment_structures_or_materials__4_a_1_b_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.4.a.1,Interpreting the Meaning of Information for Others,work_activity_interpreting_the_meaning_of_information_for_others__4_a_4_a_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.2.a.1,"Judging the Qualities of Objects, Services, or People",work_activity_judging_the_qualities_of_objects_services_or_people__4_a_2_a_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.2.b.1,Making Decisions and Solving Problems,work_activity_making_decisions_and_solving_problems__4_a_2_b_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.4.c.3,Monitoring and Controlling Resources,work_activity_monitoring_and_controlling_resources__4_a_4_c_3,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.1.a.2,"Monitoring Processes, Materials, or Surroundings",work_activity_monitoring_processes_materials_or_surroundings__4_a_1_a_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.3.a.4,"Operating Vehicles, Mechanized Devices, or Equipment",work_activity_operating_vehicles_mechanized_devices_or_equipment__4_a_3_a_4,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.2.b.6,"Organizing, Planning, and Prioritizing Work",work_activity_organizing_planning_and_prioritizing_work__4_a_2_b_6,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.4.c.1,Performing Administrative Activities,work_activity_performing_administrative_activities__4_a_4_c_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.4.a.8,Performing for or Working Directly with the Public,work_activity_performing_for_or_working_directly_with_the_public__4_a_4_a_8,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.3.a.1,Performing General Physical Activities,work_activity_performing_general_physical_activities__4_a_3_a_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.2.a.2,Processing Information,work_activity_processing_information__4_a_2_a_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.4.b.6,Providing Consultation and Advice to Others,work_activity_providing_consultation_and_advice_to_others__4_a_4_b_6,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.3.b.5,Repairing and Maintaining Electronic Equipment,work_activity_repairing_and_maintaining_electronic_equipment__4_a_3_b_5,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.3.b.4,Repairing and Maintaining Mechanical Equipment,work_activity_repairing_and_maintaining_mechanical_equipment__4_a_3_b_4,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.4.a.7,Resolving Conflicts and Negotiating with Others,work_activity_resolving_conflicts_and_negotiating_with_others__4_a_4_a_7,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.2.b.5,Scheduling Work and Activities,work_activity_scheduling_work_and_activities__4_a_2_b_5,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.4.a.6,Selling or Influencing Others,work_activity_selling_or_influencing_others__4_a_4_a_6,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.4.c.2,Staffing Organizational Units,work_activity_staffing_organizational_units__4_a_4_c_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.2.b.2,Thinking Creatively,work_activity_thinking_creatively__4_a_2_b_2,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.4.b.3,Training and Teaching Others,work_activity_training_and_teaching_others__4_a_4_b_3,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.2.b.3,Updating and Using Relevant Knowledge,work_activity_updating_and_using_relevant_knowledge__4_a_2_b_3,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_activities,onet_work_activities.xlsx,4.A.3.b.1,Working with Computers,work_activity_working_with_computers__4_a_3_b_1,IM,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.1.d.1,Conflict Situations,work_context_conflict_situations__4_c_1_d_1,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.3.a.1,Consequence of Error,work_context_consequence_of_error__4_c_3_a_1,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.1.a.4,Contact With Others,work_context_contact_with_others__4_c_1_a_4,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.1.b.1.g,Coordinate or Lead Others in Accomplishing Work Activities,work_context_coordinate_or_lead_others_in_accomplishing_work_activities__4_c_1_b_1_g,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.1.b.1.f,Deal With External Customers or the Public in General,work_context_deal_with_external_customers_or_the_public_in_general__4_c_1_b_1_f,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.1.d.2,"Dealing With Unpleasant, Angry, or Discourteous People",work_context_dealing_with_unpleasant_angry_or_discourteous_people__4_c_1_d_2,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.1.d.3,Dealing with Violent or Physically Aggressive People,work_context_dealing_with_violent_or_physically_aggressive_people__4_c_1_d_3,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.3.b.2,Degree of Automation,work_context_degree_of_automation__4_c_3_b_2,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.3.b.8,"Determine Tasks, Priorities and Goals",work_context_determine_tasks_priorities_and_goals__4_c_3_b_8,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.1.a.2.h,E-Mail,work_context_e_mail__4_c_1_a_2_h,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.b.1.d,Exposed to Contaminants,work_context_exposed_to_contaminants__4_c_2_b_1_d,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.b.1.e,"Exposed to Cramped Work Space, Awkward Positions",work_context_exposed_to_cramped_work_space_awkward_positions__4_c_2_b_1_e,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.c.1.b,Exposed to Disease or Infections,work_context_exposed_to_disease_or_infections__4_c_2_c_1_b,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.b.1.c,Exposed to Extremely Bright or Inadequate Lighting Conditions,work_context_exposed_to_extremely_bright_or_inadequate_lighting_conditions__4_c_2_b_1_c,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.c.1.d,Exposed to Hazardous Conditions,work_context_exposed_to_hazardous_conditions__4_c_2_c_1_d,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.c.1.e,Exposed to Hazardous Equipment,work_context_exposed_to_hazardous_equipment__4_c_2_c_1_e,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.c.1.c,Exposed to High Places,work_context_exposed_to_high_places__4_c_2_c_1_c,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.c.1.f,"Exposed to Minor Burns, Cuts, Bites, or Stings",work_context_exposed_to_minor_burns_cuts_bites_or_stings__4_c_2_c_1_f,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.c.1.a,Exposed to Radiation,work_context_exposed_to_radiation__4_c_2_c_1_a,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.b.1.a,"Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",work_context_exposed_to_sounds_noise_levels_that_are_distracting_or_uncomfortable__4_c_2_b_1_a,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.b.1.b,Exposed to Very Hot or Cold Temperatures,work_context_exposed_to_very_hot_or_cold_temperatures__4_c_2_b_1_b,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.b.1.f,Exposed to Whole Body Vibration,work_context_exposed_to_whole_body_vibration__4_c_2_b_1_f,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.1.a.2.l,Face-to-Face Discussions with Individuals and Within Teams,work_context_face_to_face_discussions_with_individuals_and_within_teams__4_c_1_a_2_l,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.3.a.4,Freedom to Make Decisions,work_context_freedom_to_make_decisions__4_c_3_a_4,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.3.a.2.b,Frequency of Decision Making,work_context_frequency_of_decision_making__4_c_3_a_2_b,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.1.c.1,Health and Safety of Other Workers,work_context_health_and_safety_of_other_workers__4_c_1_c_1,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.3.a.2.a,Impact of Decisions on Co-workers or Company Results,work_context_impact_of_decisions_on_co_workers_or_company_results__4_c_3_a_2_a,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.3.b.4,Importance of Being Exact or Accurate,work_context_importance_of_being_exact_or_accurate__4_c_3_b_4,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.3.b.7,Importance of Repeating Same Tasks,work_context_importance_of_repeating_same_tasks__4_c_3_b_7,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.a.1.f,In an Enclosed Vehicle or Operate Enclosed Equipment,work_context_in_an_enclosed_vehicle_or_operate_enclosed_equipment__4_c_2_a_1_f,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.a.1.e,In an Open Vehicle or Operating Equipment,work_context_in_an_open_vehicle_or_operating_equipment__4_c_2_a_1_e,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.a.1.a,"Indoors, Environmentally Controlled",work_context_indoors_environmentally_controlled__4_c_2_a_1_a,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.a.1.b,"Indoors, Not Environmentally Controlled",work_context_indoors_not_environmentally_controlled__4_c_2_a_1_b,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.3.c.1,Level of Competition,work_context_level_of_competition__4_c_3_c_1,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.a.1.c,"Outdoors, Exposed to All Weather Conditions",work_context_outdoors_exposed_to_all_weather_conditions__4_c_2_a_1_c,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.a.1.d,"Outdoors, Under Cover",work_context_outdoors_under_cover__4_c_2_a_1_d,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.3.d.3,Pace Determined by Speed of Equipment,work_context_pace_determined_by_speed_of_equipment__4_c_3_d_3,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.a.3,Physical Proximity,work_context_physical_proximity__4_c_2_a_3,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.1.a.2.c,Public Speaking,work_context_public_speaking__4_c_1_a_2_c,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.d.1.h,Spend Time Bending or Twisting Your Body,work_context_spend_time_bending_or_twisting_your_body__4_c_2_d_1_h,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.d.1.c,"Spend Time Climbing Ladders, Scaffolds, or Poles",work_context_spend_time_climbing_ladders_scaffolds_or_poles__4_c_2_d_1_c,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.d.1.f,Spend Time Keeping or Regaining Balance,work_context_spend_time_keeping_or_regaining_balance__4_c_2_d_1_f,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.d.1.e,"Spend Time Kneeling, Crouching, Stooping, or Crawling",work_context_spend_time_kneeling_crouching_stooping_or_crawling__4_c_2_d_1_e,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.d.1.i,Spend Time Making Repetitive Motions,work_context_spend_time_making_repetitive_motions__4_c_2_d_1_i,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.d.1.a,Spend Time Sitting,work_context_spend_time_sitting__4_c_2_d_1_a,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.d.1.b,Spend Time Standing,work_context_spend_time_standing__4_c_2_d_1_b,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.d.1.g,"Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",work_context_spend_time_using_your_hands_to_handle_control_or_feel_objects_tools_or_controls__4_c_2_d_1_g,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.d.1.d,Spend Time Walking or Running,work_context_spend_time_walking_or_running__4_c_2_d_1_d,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.1.a.2.f,Telephone Conversations,work_context_telephone_conversations__4_c_1_a_2_f,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.3.d.1,Time Pressure,work_context_time_pressure__4_c_3_d_1,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.e.1.d,"Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",work_context_wear_common_protective_or_safety_equipment_such_as_safety_shoes_glasses_gloves_hearing_protection_hard_hats_or_life_jackets__4_c_2_e_1_d,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.2.e.1.e,"Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",work_context_wear_specialized_protective_or_safety_equipment_such_as_breathing_apparatus_safety_harness_full_protection_suits_or_radiation_protection__4_c_2_e_1_e,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.1.c.2,Work Outcomes and Results of Other Workers,work_context_work_outcomes_and_results_of_other_workers__4_c_1_c_2,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.1.b.1.e,Work With or Contribute to a Work Group or Team,work_context_work_with_or_contribute_to_a_work_group_or_team__4_c_1_b_1_e,CX,mean of detailed O*NET occupations within six-digit SOC
+onet_work_context,onet_work_context.xlsx,4.C.1.a.2.j,Written Letters and Memos,work_context_written_letters_and_memos__4_c_1_a_2_j,CX,mean of detailed O*NET occupations within six-digit SOC
