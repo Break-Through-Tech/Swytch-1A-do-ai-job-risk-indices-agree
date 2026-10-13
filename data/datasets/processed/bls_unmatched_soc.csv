@@ -1,0 +1,27 @@
+soc2018,title,appears_anywhere_in_bls,soc_family
+11-1031,Legislators,False,11-103
+13-1021,"Buyers and Purchasing Agents, Farm Products",False,13-102
+13-1022,"Wholesale and Retail Buyers, Except Farm Products",False,13-102
+13-1023,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",False,13-102
+13-2022,Appraisers of Personal and Business Property,False,13-202
+13-2023,Appraisers and Assessors of Real Estate,False,13-202
+21-1011,Substance Abuse and Behavioral Disorder Counselors,False,21-101
+21-1014,Mental Health Counselors,False,21-101
+25-2055,"Special Education Teachers, Kindergarten",False,25-205
+25-2056,"Special Education Teachers, Elementary School",False,25-205
+25-9042,"Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education",False,25-904
+25-9043,"Teaching Assistants, Special Education",False,25-904
+29-2011,Medical and Clinical Laboratory Technologists,False,29-201
+29-2012,Medical and Clinical Laboratory Technicians,False,29-201
+31-1121,Home Health Aides,False,31-112
+31-1122,Personal Care Aides,False,31-112
+39-7011,Tour Guides and Escorts,False,39-701
+39-7012,Travel Guides,False,39-701
+47-4091,Segmental Pavers,False,47-409
+47-4099,"Construction and Related Workers, All Other",False,47-409
+51-2022,Electrical and Electronic Equipment Assemblers,False,51-202
+51-2023,Electromechanical Equipment Assemblers,False,51-202
+51-2092,Team Assemblers,False,51-209
+53-1042,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",False,53-104
+53-1043,First-Line Supervisors of Material-Moving Machine and Vehicle Operators,False,53-104
+53-1044,First-line Supervisors of Passenger Attendants,False,53-104
