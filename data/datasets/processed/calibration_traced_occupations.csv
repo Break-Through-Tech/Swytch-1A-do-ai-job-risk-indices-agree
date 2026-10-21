@@ -1,0 +1,29 @@
+soc2018,title,index,sample_value,sample_rank,source_2010_codes,raw_values,crosswalk_handling,crosswalk_changed
+19-3039,"Psychologists, All Other",aioe,1.389854,0.9592760180995475,19-3039,1.39,1:1,False
+19-3039,"Psychologists, All Other",fo_prob,0.0043,0.0241327300150829,19-3039,0.0043,1:1,False
+19-3039,"Psychologists, All Other",dv_rating_beta,0.4543650793650793,0.6998491704374057,(Eloundou: published on 2018-based codes),0.4544,none,False
+19-3039,"Psychologists, All Other",human_rating_beta,0.2817460317460317,0.5369532428355958,(Eloundou: published on 2018-based codes),0.2817,none,False
+21-1013,Marriage and Family Therapists,aioe,1.367434,0.9457013574660632,21-1013,1.367,1:1,False
+21-1013,Marriage and Family Therapists,fo_prob,0.014,0.0897435897435897,21-1013,0.014,1:1,False
+21-1013,Marriage and Family Therapists,dv_rating_beta,0.1111111111111111,0.2594268476621418,(Eloundou: published on 2018-based codes),0.1111,none,False
+21-1013,Marriage and Family Therapists,human_rating_beta,0.2777777777777778,0.528657616892911,(Eloundou: published on 2018-based codes),0.2778,none,False
+51-9162,Computer Numerically Controlled Tool Programmers,aioe,-0.6575732,0.3544494720965309,51-4012;51-9199,-0.02418;-1.291,many:1;many:many,True
+51-9162,Computer Numerically Controlled Tool Programmers,fo_prob,0.36,0.3672699849170437,51-4012,0.36,many:1,True
+51-9162,Computer Numerically Controlled Tool Programmers,dv_rating_beta,0.8035714285714285,0.9728506787330315,(Eloundou: published on 2018-based codes),0.8036,none,False
+51-9162,Computer Numerically Controlled Tool Programmers,human_rating_beta,0.3571428571428571,0.6319758672699849,(Eloundou: published on 2018-based codes),0.3571,none,False
+19-3034,School Psychologists,aioe,1.456361,0.98868778280543,19-3031,1.456,1:many,True
+19-3034,School Psychologists,fo_prob,0.0047,0.035444947209653,19-3031,0.0047,1:many,True
+19-3034,School Psychologists,dv_rating_beta,0.3918918918918919,0.6093514328808446,(Eloundou: published on 2018-based codes),0.3919,none,False
+19-3034,School Psychologists,human_rating_beta,0.5810810810810811,0.9170437405731524,(Eloundou: published on 2018-based codes),0.5811,none,False
+19-3033,Clinical and Counseling Psychologists,aioe,1.456361,0.98868778280543,19-3031,1.456,1:many,True
+19-3033,Clinical and Counseling Psychologists,fo_prob,0.0047,0.035444947209653,19-3031,0.0047,1:many,True
+19-3033,Clinical and Counseling Psychologists,dv_rating_beta,0.3703703703703703,0.5874811463046757,(Eloundou: published on 2018-based codes),0.3704,none,False
+19-3033,Clinical and Counseling Psychologists,human_rating_beta,0.5092592592592592,0.8355957767722474,(Eloundou: published on 2018-based codes),0.5093,none,False
+31-9094,Medical Transcriptionists,aioe,1.06259,0.803921568627451,31-9094,1.063,1:1,False
+31-9094,Medical Transcriptionists,fo_prob,0.89,0.7481146304675717,31-9094,0.89,1:1,False
+31-9094,Medical Transcriptionists,dv_rating_beta,0.875,0.9803921568627452,(Eloundou: published on 2018-based codes),0.875,none,False
+31-9094,Medical Transcriptionists,human_rating_beta,0.2321428571428571,0.4720965309200603,(Eloundou: published on 2018-based codes),0.2321,none,False
+53-1041,Aircraft Cargo Handling Supervisors,aioe,-0.7091902,0.3378582202111614,53-1011,-0.7092,1:1,False
+53-1041,Aircraft Cargo Handling Supervisors,fo_prob,0.066,0.2164404223227752,53-1011,0.066,1:1,False
+53-1041,Aircraft Cargo Handling Supervisors,dv_rating_beta,0.3,0.5075414781297134,(Eloundou: published on 2018-based codes),0.3,none,False
+53-1041,Aircraft Cargo Handling Supervisors,human_rating_beta,0.0,0.0414781297134238,(Eloundou: published on 2018-based codes),0,none,False

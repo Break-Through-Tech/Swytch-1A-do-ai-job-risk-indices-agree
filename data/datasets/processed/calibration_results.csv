@@ -1,0 +1,17 @@
+check,comparison,n,value,p_value,published
+A: rank correlation with dv_rating_beta (Budget Lab),dv_rating_beta vs aioe,663,0.8628050521118018,5.446458586532871e-198,0.7 to 0.9 (R² 0.47 to 0.78)
+A: rank correlation with dv_rating_beta (Budget Lab),dv_rating_beta vs human_rating_beta,663,0.9117680788637954,1.1893207717503772e-257,0.7 to 0.9 (R² 0.47 to 0.78)
+A: rank correlation with dv_rating_beta (Budget Lab),dv_rating_beta vs fo_prob,663,-0.2670081404547459,2.7597057001001007e-12,0.7 to 0.9 (R² 0.47 to 0.78)
+B: variance of z-scores vs exposure (Budget Lab),spec 1: AIOE + GPT-4 beta | x = mean of the same z-scores,663,0.085141017137853,1.110287812063935e-12,"positive, significant (slope 0.0617)"
+B: variance of z-scores vs exposure (Budget Lab),spec 1: AIOE + human beta | x = mean of the same z-scores,663,0.03540682160428585,7.654843430293431e-05,"positive, significant (slope 0.0617)"
+B: variance of z-scores vs exposure (Budget Lab),spec 1: AIOE + GPT-4 beta + human beta | x = mean of the same z-scores,663,0.06628926126485074,1.3346377361577092e-16,"positive, significant (slope 0.0617)"
+B: variance of z-scores vs exposure (Budget Lab),spec 1: AIOE + GPT-4 beta + Frey–Osborne | x = mean of the same z-scores,663,-0.045338973270517786,0.36199066349992653,"positive, significant (slope 0.0617)"
+B: variance of z-scores vs exposure (Budget Lab),spec 1: AIOE + human beta + Frey–Osborne | x = mean of the same z-scores,663,-0.011966746467103773,0.8150284839805773,"positive, significant (slope 0.0617)"
+B: variance of z-scores vs exposure (Budget Lab),spec 2: aioe + human_rating_beta | x = dv_rating_beta,663,0.031957108109446984,0.00022100818268526847,"positive, significant (slope 0.0617)"
+B: variance of z-scores vs exposure (Budget Lab),spec 2: aioe + dv_rating_beta | x = human_rating_beta,663,0.061546805922219804,1.0620854555504265e-07,"positive, significant (slope 0.0617)"
+B: variance of z-scores vs exposure (Budget Lab),spec 2: aioe + fo_prob | x = dv_rating_beta,663,-0.007029216101960037,0.8828087300812589,"positive, significant (slope 0.0617)"
+B: variance of z-scores vs exposure (Budget Lab),spec 2: aioe + fo_prob | x = human_rating_beta,663,0.09186185388902468,0.05371442373802684,"positive, significant (slope 0.0617)"
+C: correlation with median wage (ILO Table 2),aioe vs log wage (Pearson),656,0.5173836236574567,,0.5375
+C: correlation with median wage (ILO Table 2),fo_prob vs log wage (Pearson),656,-0.5593285965272782,,-0.5576
+C: correlation with median wage (ILO Table 2),dv_rating_beta vs log wage (Pearson),656,0.38987714691299197,,0.4243
+C: correlation with median wage (ILO Table 2),human_rating_beta vs log wage (Pearson),656,0.40583170347836955,,0.4243
