@@ -1,0 +1,37 @@
+label_source,threshold_percentile,consensus_tier,confidence_flag,count
+gpt4,75,Low,agreed,39
+gpt4,75,Low,contested,1
+gpt4,75,Medium,agreed,246
+gpt4,75,Medium,contested,69
+gpt4,75,High,agreed,153
+gpt4,75,High,contested,91
+gpt4,75,Very High,agreed,64
+gpt4,75,Very High,contested,0
+gpt4,75,insufficient_index_coverage,insufficient_index_coverage,135
+gpt4,80,Low,agreed,40
+gpt4,80,Low,contested,0
+gpt4,80,Medium,agreed,261
+gpt4,80,Medium,contested,54
+gpt4,80,High,agreed,171
+gpt4,80,High,contested,73
+gpt4,80,Very High,agreed,64
+gpt4,80,Very High,contested,0
+gpt4,80,insufficient_index_coverage,insufficient_index_coverage,135
+human,75,Low,agreed,37
+human,75,Low,contested,1
+human,75,Medium,agreed,250
+human,75,Medium,contested,70
+human,75,High,agreed,142
+human,75,High,contested,99
+human,75,Very High,agreed,63
+human,75,Very High,contested,1
+human,75,insufficient_index_coverage,insufficient_index_coverage,135
+human,80,Low,agreed,38
+human,80,Low,contested,0
+human,80,Medium,agreed,270
+human,80,Medium,contested,50
+human,80,High,agreed,158
+human,80,High,contested,83
+human,80,Very High,agreed,63
+human,80,Very High,contested,1
+human,80,insufficient_index_coverage,insufficient_index_coverage,135
