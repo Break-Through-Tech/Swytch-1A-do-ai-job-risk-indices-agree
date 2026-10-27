@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 450">
+<rect width="900" height="450" fill="white"/>
+<text x="45" y="30" font-family="sans-serif" font-size="23" text-anchor="start" fill="#202b3b">Task 13: consensus exposure tiers</text>
+<text x="45" y="56" font-family="sans-serif" font-size="14" text-anchor="start" fill="#202b3b">663 eligible occupations per source; approved cutoffs at 0.25, 0.50, 0.75</text>
+<line x1="80" y1="335.0" x2="855" y2="335.0" stroke="#dce1e7"/>
+<text x="68" y="340.0" font-family="sans-serif" font-size="14" text-anchor="end" fill="#202b3b">0</text>
+<line x1="80" y1="303.57142857142856" x2="855" y2="303.57142857142856" stroke="#dce1e7"/>
+<text x="68" y="308.57142857142856" font-family="sans-serif" font-size="14" text-anchor="end" fill="#202b3b">50</text>
+<line x1="80" y1="272.14285714285717" x2="855" y2="272.14285714285717" stroke="#dce1e7"/>
+<text x="68" y="277.14285714285717" font-family="sans-serif" font-size="14" text-anchor="end" fill="#202b3b">100</text>
+<line x1="80" y1="240.71428571428572" x2="855" y2="240.71428571428572" stroke="#dce1e7"/>
+<text x="68" y="245.71428571428572" font-family="sans-serif" font-size="14" text-anchor="end" fill="#202b3b">150</text>
+<line x1="80" y1="209.28571428571428" x2="855" y2="209.28571428571428" stroke="#dce1e7"/>
+<text x="68" y="214.28571428571428" font-family="sans-serif" font-size="14" text-anchor="end" fill="#202b3b">200</text>
+<line x1="80" y1="177.85714285714286" x2="855" y2="177.85714285714286" stroke="#dce1e7"/>
+<text x="68" y="182.85714285714286" font-family="sans-serif" font-size="14" text-anchor="end" fill="#202b3b">250</text>
+<line x1="80" y1="146.42857142857144" x2="855" y2="146.42857142857144" stroke="#dce1e7"/>
+<text x="68" y="151.42857142857144" font-family="sans-serif" font-size="14" text-anchor="end" fill="#202b3b">300</text>
+<line x1="80" y1="115.0" x2="855" y2="115.0" stroke="#dce1e7"/>
+<text x="68" y="120.0" font-family="sans-serif" font-size="14" text-anchor="end" fill="#202b3b">350</text>
+<text x="80" y="95" font-family="sans-serif" font-size="14" text-anchor="start" fill="#202b3b">Occupations</text>
+<rect x="115" y="309.85714285714283" width="55" height="25.142857142857142" fill="#276eaa"/>
+<text x="142.5" y="302.85714285714283" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#202b3b">40</text>
+<rect x="177" y="311.1142857142857" width="55" height="23.885714285714286" fill="#d07427"/>
+<text x="204.5" y="304.1142857142857" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#202b3b">38</text>
+<text x="175" y="360" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#202b3b">Low</text>
+<rect x="310" y="137.0" width="55" height="198.0" fill="#276eaa"/>
+<text x="337.5" y="130.0" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#202b3b">315</text>
+<rect x="372" y="133.85714285714286" width="55" height="201.14285714285714" fill="#d07427"/>
+<text x="399.5" y="126.85714285714286" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#202b3b">320</text>
+<text x="370" y="360" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#202b3b">Medium</text>
+<rect x="505" y="181.62857142857143" width="55" height="153.37142857142857" fill="#276eaa"/>
+<text x="532.5" y="174.62857142857143" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#202b3b">244</text>
+<rect x="567" y="183.5142857142857" width="55" height="151.4857142857143" fill="#d07427"/>
+<text x="594.5" y="176.5142857142857" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#202b3b">241</text>
+<text x="565" y="360" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#202b3b">High</text>
+<rect x="700" y="294.7714285714286" width="55" height="40.22857142857143" fill="#276eaa"/>
+<text x="727.5" y="287.7714285714286" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#202b3b">64</text>
+<rect x="762" y="294.7714285714286" width="55" height="40.22857142857143" fill="#d07427"/>
+<text x="789.5" y="287.7714285714286" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#202b3b">64</text>
+<text x="760" y="360" font-family="sans-serif" font-size="14" text-anchor="middle" fill="#202b3b">Very High</text>
+<rect x="270" y="385" width="15" height="15" fill="#276eaa"/>
+<text x="293" y="398" font-family="sans-serif" font-size="14" text-anchor="start" fill="#202b3b">GPT-4 beta</text>
+<rect x="470" y="385" width="15" height="15" fill="#d07427"/>
+<text x="493" y="398" font-family="sans-serif" font-size="14" text-anchor="start" fill="#202b3b">Human beta</text>
+<text x="45" y="432" font-family="sans-serif" font-size="13" text-anchor="start" fill="#202b3b">135 occupations retained as insufficient_index_coverage; exposure is not predicted job loss.</text>
+</svg>
