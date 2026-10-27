@@ -65,7 +65,7 @@ def chart(counts, excluded):
     def label(x, y, text, size=14, anchor='start'):
         pieces.append(f'<text x="{x}" y="{y}" font-family="sans-serif" font-size="{size}" text-anchor="{anchor}" fill="#202b3b">{escape(text)}</text>')
     label(45, 30, 'Task 13: consensus exposure tiers', 23)
-    label(45, 56, '663 eligible occupations per source; provisional cutoffs at 0.25, 0.50, 0.75')
+    label(45, 56, '663 eligible occupations per source; approved cutoffs at 0.25, 0.50, 0.75')
     maximum = max(n for counter in counts.values() for n in counter.values())
     top = math.ceil(maximum / 50) * 50
     for tick in range(0, top + 1, 50):
@@ -122,7 +122,7 @@ def main():
         row.update(included_in_analysis=str(included),
                    exclusion_reason=audit[code]['exclusion_reason'],
                    coverage_status='complete_index_coverage' if included else 'insufficient_index_coverage',
-                   tier_cutoff_status='provisional_pending_team_agreement')
+                   tier_cutoff_status='team_approved')
         if included:
             frozen = eligible[code]
             assert all(equivalent(frozen[name], original[name]) for name in original), code
@@ -159,11 +159,10 @@ def main():
     fingerprints = '\n'.join(f'- `{name}`: `{hashlib.sha256((DATA / name).read_bytes()).hexdigest()}`' for name in ('merged_v0.csv', 'agreement_analysis_sample.csv', 'agreement_sample_audit.csv'))
     note = f'''# Task 13 — Consensus exposure tiers
 
-## Method and provisional decision
+## Method and approved cutoffs
 
-Cutoffs are **provisional pending team agreement**. Samarth authorized proceeding
-while the team was unavailable; these thresholds are not recorded as team-approved.
-Change the cutoffs and rerun after team review if necessary.
+Cutoffs are **team-approved**, as confirmed by Samarth on October 27, 2026.
+The approved boundaries are 0.25, 0.50, and 0.75 on the average component rank.
 
 Use the frozen Task 9 complete-case sample: 663 of 798 occupations. Preserve its
 average-tie percentile ranks without reranking or filling missing scores.
@@ -195,7 +194,7 @@ it measures tier stability only, not agreement among the underlying indices.
 
 `consensus_tiers.csv` retains all original columns and all 798 occupations in their
 original order, adding frozen ranks, inclusion/exclusion fields, coverage status,
-two consensus scores/tiers, stability, and provisional-cutoff status.
+two consensus scores/tiers, stability, and cutoff-approval status.
 The 135 excluded occupations have `coverage_status=insufficient_index_coverage`,
 blank rank/consensus/tier fields, their Task 9 exclusion reason, and
 `label_source_stability=insufficient_index_coverage`. Even an available label score

@@ -1,10 +1,9 @@
 # Task 13 — Consensus exposure tiers
 
-## Method and provisional decision
+## Method and approved cutoffs
 
-Cutoffs are **provisional pending team agreement**. Samarth authorized proceeding
-while the team was unavailable; these thresholds are not recorded as team-approved.
-Change the cutoffs and rerun after team review if necessary.
+Cutoffs are **team-approved**, as confirmed by Samarth on October 27, 2026.
+The approved boundaries are 0.25, 0.50, and 0.75 on the average component rank.
 
 Use the frozen Task 9 complete-case sample: 663 of 798 occupations. Preserve its
 average-tie percentile ranks without reranking or filling missing scores.
@@ -36,7 +35,7 @@ it measures tier stability only, not agreement among the underlying indices.
 
 `consensus_tiers.csv` retains all original columns and all 798 occupations in their
 original order, adding frozen ranks, inclusion/exclusion fields, coverage status,
-two consensus scores/tiers, stability, and provisional-cutoff status.
+two consensus scores/tiers, stability, and cutoff-approval status.
 The 135 excluded occupations have `coverage_status=insufficient_index_coverage`,
 blank rank/consensus/tier fields, their Task 9 exclusion reason, and
 `label_source_stability=insufficient_index_coverage`. Even an available label score
