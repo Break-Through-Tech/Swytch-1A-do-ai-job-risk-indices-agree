@@ -2,3 +2,6 @@
 .venv/
 .vscode/
 Milestone #1 Task Planning (September).docx
+
+# Python bytecode
+__pycache__/
