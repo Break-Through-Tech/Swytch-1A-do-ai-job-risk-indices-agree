@@ -1,0 +1,469 @@
+{
+  "version": 1,
+  "groups": [
+    {
+      "feature": "ability_verbal",
+      "domain": "ability",
+      "element_ids": [
+        "1.A.1.a.1",
+        "1.A.1.a.2",
+        "1.A.1.a.3",
+        "1.A.1.a.4"
+      ],
+      "interpretation": "Importance of understanding and expressing spoken or written language"
+    },
+    {
+      "feature": "ability_reasoning_creativity",
+      "domain": "ability",
+      "element_ids": [
+        "1.A.1.b.1",
+        "1.A.1.b.2",
+        "1.A.1.b.3",
+        "1.A.1.b.4",
+        "1.A.1.b.5",
+        "1.A.1.b.6",
+        "1.A.1.b.7"
+      ],
+      "interpretation": "Importance of generating ideas, reasoning, ordering information and recognizing problems"
+    },
+    {
+      "feature": "ability_quantitative",
+      "domain": "ability",
+      "element_ids": [
+        "1.A.1.c.1",
+        "1.A.1.c.2"
+      ],
+      "interpretation": "Importance of mathematical reasoning and number facility"
+    },
+    {
+      "feature": "ability_memory_attention",
+      "domain": "ability",
+      "element_ids": [
+        "1.A.1.d.1",
+        "1.A.1.g.1",
+        "1.A.1.g.2"
+      ],
+      "interpretation": "Importance of memory and sustained or divided attention"
+    },
+    {
+      "feature": "ability_perceptual_spatial",
+      "domain": "ability",
+      "element_ids": [
+        "1.A.1.e.1",
+        "1.A.1.e.2",
+        "1.A.1.e.3",
+        "1.A.1.f.1",
+        "1.A.1.f.2"
+      ],
+      "interpretation": "Importance of perceptual processing and spatial orientation or visualization"
+    },
+    {
+      "feature": "ability_psychomotor",
+      "domain": "ability",
+      "element_ids": [
+        "1.A.2.a.1",
+        "1.A.2.a.2",
+        "1.A.2.a.3",
+        "1.A.2.b.1",
+        "1.A.2.b.2",
+        "1.A.2.b.3",
+        "1.A.2.b.4",
+        "1.A.2.c.1",
+        "1.A.2.c.2",
+        "1.A.2.c.3"
+      ],
+      "interpretation": "Importance of dexterity, coordination, precision and movement speed"
+    },
+    {
+      "feature": "ability_physical",
+      "domain": "ability",
+      "element_ids": [
+        "1.A.3.a.1",
+        "1.A.3.a.2",
+        "1.A.3.a.3",
+        "1.A.3.a.4",
+        "1.A.3.b.1",
+        "1.A.3.c.1",
+        "1.A.3.c.2",
+        "1.A.3.c.3",
+        "1.A.3.c.4"
+      ],
+      "interpretation": "Importance of strength, stamina, flexibility and body balance"
+    },
+    {
+      "feature": "ability_sensory",
+      "domain": "ability",
+      "element_ids": [
+        "1.A.4.a.1",
+        "1.A.4.a.2",
+        "1.A.4.a.3",
+        "1.A.4.a.4",
+        "1.A.4.a.5",
+        "1.A.4.a.6",
+        "1.A.4.a.7",
+        "1.A.4.b.1",
+        "1.A.4.b.2",
+        "1.A.4.b.3",
+        "1.A.4.b.4",
+        "1.A.4.b.5"
+      ],
+      "interpretation": "Importance of visual, auditory and speech-related sensory abilities"
+    },
+    {
+      "feature": "skill_communication",
+      "domain": "skill",
+      "element_ids": [
+        "2.A.1.a",
+        "2.A.1.b",
+        "2.A.1.c",
+        "2.A.1.d"
+      ],
+      "interpretation": "Importance of reading, listening, writing and speaking skills"
+    },
+    {
+      "feature": "skill_math_science",
+      "domain": "skill",
+      "element_ids": [
+        "2.A.1.e",
+        "2.A.1.f"
+      ],
+      "interpretation": "Importance of mathematics and science skills"
+    },
+    {
+      "feature": "skill_learning_thinking",
+      "domain": "skill",
+      "element_ids": [
+        "2.A.2.a",
+        "2.A.2.b",
+        "2.A.2.c",
+        "2.A.2.d"
+      ],
+      "interpretation": "Importance of critical thinking, learning and monitoring"
+    },
+    {
+      "feature": "skill_social",
+      "domain": "skill",
+      "element_ids": [
+        "2.B.1.a",
+        "2.B.1.b",
+        "2.B.1.c",
+        "2.B.1.d",
+        "2.B.1.e",
+        "2.B.1.f"
+      ],
+      "interpretation": "Importance of social perception, coordination, influence, instruction and service"
+    },
+    {
+      "feature": "skill_technical",
+      "domain": "skill",
+      "element_ids": [
+        "2.B.3.a",
+        "2.B.3.b",
+        "2.B.3.c",
+        "2.B.3.d",
+        "2.B.3.e",
+        "2.B.3.g",
+        "2.B.3.h",
+        "2.B.3.j",
+        "2.B.3.k",
+        "2.B.3.l",
+        "2.B.3.m"
+      ],
+      "interpretation": "Importance of designing, operating, maintaining and evaluating technical systems"
+    },
+    {
+      "feature": "skill_systems_problem_solving",
+      "domain": "skill",
+      "element_ids": [
+        "2.B.2.i",
+        "2.B.4.e",
+        "2.B.4.g",
+        "2.B.4.h"
+      ],
+      "interpretation": "Importance of complex problem solving, judgment and systems analysis"
+    },
+    {
+      "feature": "skill_resource_management",
+      "domain": "skill",
+      "element_ids": [
+        "2.B.5.a",
+        "2.B.5.b",
+        "2.B.5.c",
+        "2.B.5.d"
+      ],
+      "interpretation": "Importance of managing time, finances, materials and personnel"
+    },
+    {
+      "feature": "activity_information_processing",
+      "domain": "activity",
+      "element_ids": [
+        "4.A.1.a.1",
+        "4.A.1.a.2",
+        "4.A.1.b.1",
+        "4.A.1.b.2",
+        "4.A.1.b.3",
+        "4.A.2.a.1",
+        "4.A.2.a.2",
+        "4.A.2.a.3",
+        "4.A.2.a.4"
+      ],
+      "interpretation": "Importance of gathering, inspecting, processing, judging and analyzing information"
+    },
+    {
+      "feature": "activity_planning_decisions",
+      "domain": "activity",
+      "element_ids": [
+        "4.A.2.b.1",
+        "4.A.2.b.2",
+        "4.A.2.b.3",
+        "4.A.2.b.4",
+        "4.A.2.b.5",
+        "4.A.2.b.6"
+      ],
+      "interpretation": "Importance of decisions, creative thinking, knowledge, strategy and scheduling"
+    },
+    {
+      "feature": "activity_physical_equipment",
+      "domain": "activity",
+      "element_ids": [
+        "4.A.3.a.1",
+        "4.A.3.a.2",
+        "4.A.3.a.3",
+        "4.A.3.a.4",
+        "4.A.3.b.4",
+        "4.A.3.b.5"
+      ],
+      "interpretation": "Importance of physical work, equipment operation and repairs"
+    },
+    {
+      "feature": "activity_digital_documentation",
+      "domain": "activity",
+      "element_ids": [
+        "4.A.3.b.1",
+        "4.A.3.b.2",
+        "4.A.3.b.6"
+      ],
+      "interpretation": "Importance of computer work, technical drafting and documentation"
+    },
+    {
+      "feature": "activity_interpersonal",
+      "domain": "activity",
+      "element_ids": [
+        "4.A.4.a.1",
+        "4.A.4.a.2",
+        "4.A.4.a.3",
+        "4.A.4.a.4",
+        "4.A.4.a.5",
+        "4.A.4.a.6",
+        "4.A.4.a.7",
+        "4.A.4.a.8"
+      ],
+      "interpretation": "Importance of communication, relationships, care, influence and public interaction"
+    },
+    {
+      "feature": "activity_leadership_administration",
+      "domain": "activity",
+      "element_ids": [
+        "4.A.4.b.1",
+        "4.A.4.b.2",
+        "4.A.4.b.3",
+        "4.A.4.b.4",
+        "4.A.4.b.5",
+        "4.A.4.b.6",
+        "4.A.4.c.1",
+        "4.A.4.c.2",
+        "4.A.4.c.3"
+      ],
+      "interpretation": "Importance of leading, teaching, staffing and administering resources"
+    },
+    {
+      "feature": "context_communication",
+      "domain": "context",
+      "element_ids": [
+        "4.C.1.a.4",
+        "4.C.1.a.2.h",
+        "4.C.1.a.2.l",
+        "4.C.1.a.2.c",
+        "4.C.1.a.2.f",
+        "4.C.1.a.2.j",
+        "4.C.1.b.1.f"
+      ],
+      "interpretation": "Greater reported contact, customer interaction and communication across channels; mixed anchors"
+    },
+    {
+      "feature": "context_teamwork",
+      "domain": "context",
+      "element_ids": [
+        "4.C.1.b.1.g",
+        "4.C.1.b.1.e"
+      ],
+      "interpretation": "Greater reported coordination and contribution to teams"
+    },
+    {
+      "feature": "context_conflict",
+      "domain": "context",
+      "element_ids": [
+        "4.C.1.d.1",
+        "4.C.1.d.2",
+        "4.C.1.d.3"
+      ],
+      "interpretation": "Greater reported conflict and difficult or aggressive interpersonal encounters"
+    },
+    {
+      "feature": "context_decisions_responsibility",
+      "domain": "context",
+      "element_ids": [
+        "4.C.1.c.1",
+        "4.C.1.c.2",
+        "4.C.3.a.1",
+        "4.C.3.a.2.a",
+        "4.C.3.a.2.b"
+      ],
+      "interpretation": "Greater reported decision frequency, consequences and responsibility for others; mixed anchors"
+    },
+    {
+      "feature": "context_autonomy",
+      "domain": "context",
+      "element_ids": [
+        "4.C.3.a.4",
+        "4.C.3.b.8"
+      ],
+      "interpretation": "Greater reported freedom to make decisions and determine tasks or goals"
+    },
+    {
+      "feature": "context_precision",
+      "domain": "context",
+      "element_ids": [
+        "4.C.3.b.4"
+      ],
+      "interpretation": "Greater reported importance of accuracy"
+    },
+    {
+      "feature": "context_automation",
+      "domain": "context",
+      "element_ids": [
+        "4.C.3.b.2"
+      ],
+      "interpretation": "Greater reported degree of automation"
+    },
+    {
+      "feature": "context_routine_equipment_pace",
+      "domain": "context",
+      "element_ids": [
+        "4.C.3.b.7",
+        "4.C.3.d.3"
+      ],
+      "interpretation": "Greater reported repetition and equipment-determined pace; mixed anchors"
+    },
+    {
+      "feature": "context_pressure_competition",
+      "domain": "context",
+      "element_ids": [
+        "4.C.3.c.1",
+        "4.C.3.d.1"
+      ],
+      "interpretation": "Greater reported competition and time pressure; mixed anchors"
+    },
+    {
+      "feature": "context_hazards",
+      "domain": "context",
+      "element_ids": [
+        "4.C.2.b.1.a",
+        "4.C.2.b.1.b",
+        "4.C.2.b.1.c",
+        "4.C.2.b.1.d",
+        "4.C.2.b.1.e",
+        "4.C.2.b.1.f",
+        "4.C.2.c.1.a",
+        "4.C.2.c.1.b",
+        "4.C.2.c.1.c",
+        "4.C.2.c.1.d",
+        "4.C.2.c.1.e",
+        "4.C.2.c.1.f"
+      ],
+      "interpretation": "Greater reported frequency of adverse environments, hazards and exposure"
+    },
+    {
+      "feature": "context_outdoors",
+      "domain": "context",
+      "element_ids": [
+        "4.C.2.a.1.c",
+        "4.C.2.a.1.d"
+      ],
+      "interpretation": "Greater reported outdoor work frequency"
+    },
+    {
+      "feature": "context_indoors",
+      "domain": "context",
+      "element_ids": [
+        "4.C.2.a.1.a",
+        "4.C.2.a.1.b"
+      ],
+      "interpretation": "Greater reported indoor work frequency, with or without climate control"
+    },
+    {
+      "feature": "context_vehicles",
+      "domain": "context",
+      "element_ids": [
+        "4.C.2.a.1.e",
+        "4.C.2.a.1.f"
+      ],
+      "interpretation": "Greater reported frequency of work in open or enclosed vehicles"
+    },
+    {
+      "feature": "context_physical_activity",
+      "domain": "context",
+      "element_ids": [
+        "4.C.2.d.1.b",
+        "4.C.2.d.1.c",
+        "4.C.2.d.1.d",
+        "4.C.2.d.1.e",
+        "4.C.2.d.1.f",
+        "4.C.2.d.1.h"
+      ],
+      "interpretation": "Greater reported time standing, walking, climbing and using demanding postures"
+    },
+    {
+      "feature": "context_sitting",
+      "domain": "context",
+      "element_ids": [
+        "4.C.2.d.1.a"
+      ],
+      "interpretation": "Greater reported time sitting"
+    },
+    {
+      "feature": "context_manual_repetition",
+      "domain": "context",
+      "element_ids": [
+        "4.C.2.d.1.g",
+        "4.C.2.d.1.i"
+      ],
+      "interpretation": "Greater reported time handling objects and making repetitive motions"
+    },
+    {
+      "feature": "context_physical_proximity",
+      "domain": "context",
+      "element_ids": [
+        "4.C.2.a.3"
+      ],
+      "interpretation": "Greater reported physical proximity to other people"
+    },
+    {
+      "feature": "context_protective_equipment",
+      "domain": "context",
+      "element_ids": [
+        "4.C.2.e.1.d",
+        "4.C.2.e.1.e"
+      ],
+      "interpretation": "Greater reported frequency of wearing common or specialized protective equipment"
+    },
+    {
+      "feature": "job_zone_preparation",
+      "domain": "job_zone",
+      "element_ids": [
+        "job_zone"
+      ],
+      "interpretation": "Existing ordinal preparation category, preserved without averaging or one-hot encoding"
+    }
+  ]
+}
