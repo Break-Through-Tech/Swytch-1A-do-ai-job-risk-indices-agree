@@ -5,3 +5,6 @@ openpyxl>=3.1,<4
 # Kendall rank correlations and heatmaps
 scipy>=1.13,<2
 matplotlib>=3.9,<4
+
+# Task 18+ modeling: pipelines, ridge regression, random forest
+scikit-learn>=1.5,<2
